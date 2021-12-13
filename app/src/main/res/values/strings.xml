@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">covidtracker</string>
+    <string name="track_countries">TRACK COUNTRIES</string>
+    <string name="total_cases">Total Cases</string>
+</resources>
